@@ -1,5 +1,6 @@
-# 2D Maze Game (OpenGL)
+# Maze Game
 Aryamaan Jain  
+OpenGL | 2D  
 
 ## 1. To run code
 
