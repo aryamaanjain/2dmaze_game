@@ -37,7 +37,7 @@ Aryamaan Jain
 7. One battery gives one battery.
 8. One healthup adds one to health.
 
-## 5. Files in submission
+## 5. Files included
 
 1. `Enemy.py`: Contains class to handle enemy.
 2. `Main.py`: Contains main code and most of opengl.
